@@ -1,1 +1,2 @@
-Currently studying computer science
+Currently studying computer science and also trying to figure githbb
+
