@@ -1,0 +1,1 @@
+Currently studying computer science
