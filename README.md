@@ -13,6 +13,6 @@ I am a Computer Science student and here you will find some of the projects I di
      🧩 Solving a puzzle with AI 
     
     
-    My graphical projects 
+ My graphical projects 
     
-    ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84543584/200974885-fe005ec3-2bc6-40e0-adc7-b036d6d6dc7d.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/84543584/200974885-fe005ec3-2bc6-40e0-adc7-b036d6d6dc7d.gif)
