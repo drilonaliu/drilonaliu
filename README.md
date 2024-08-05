@@ -1,5 +1,5 @@
 
-I am a Computer Science student and here you will find some of the projects I did throughout the semesters for my university. Strongly focused on architecture of the projects and readMe files, so that anyone that comes across through them can easily read them  where they have a chance to learn something new. My repos include:
+Computer Science graduate with an interest in Parallel Programming and Computer Graphics. 
 
      ✈🎬 Animation - A plane flying high up in the sky!
      🎨 Mandala Art - Do u like patterns?
